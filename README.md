@@ -1,6 +1,6 @@
 # test-vue-publish-gh-pages
 
-This template should help get you started developing with Vue 3 in Vite.
+vue3をgithub pagesにデプロイするテスト
 
 ## Recommended IDE Setup
 
